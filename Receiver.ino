@@ -1,3 +1,10 @@
+/**
+ * Receiver script
+ * 
+ * @author  Tuna Girişken
+ * @date 03/9/21
+ * @language Arduino
+ */
 #include <SPI.h>
 #include "RF24.h"
 #include "Wire.h"
