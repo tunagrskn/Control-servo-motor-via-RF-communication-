@@ -1,6 +1,10 @@
-// Robimek - Robotik Sistemler
-// Coder: Sezgin Gül
-//MPU6050 SERVO ALICI DEVRE KODU
+/**
+ * Transmitter script
+ * 
+ * @author  Tuna Girişken
+ * @date 03/9/21
+ * @language Arduino
+ */
 //SCK -> 13
 //MISO -> 12
 //MOSI -> 11
